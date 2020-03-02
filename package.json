@@ -1,0 +1,16 @@
+{
+  "name": "bulgaria",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://mkireva.github.io/visitbulgaria",
+  "dependencies": {
+    "gh-pages": "2.2.0"
+  }
+}
